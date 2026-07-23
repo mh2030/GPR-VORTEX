@@ -72,6 +72,8 @@ Advanced Automation
 Streamlined processing pipelines with minimal manual intervention.
 Enhanced Visualization
 Next-generation 3D rendering and real-time data exploration.
+mh2030/GPR-VORTEX
+DOI: 10.5281/zenodo.21507166
 GPR VORTEX
 Advanced Ground Penetrating Radar (GPR) Processing and Interpretation Software
 
