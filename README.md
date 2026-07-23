@@ -61,7 +61,8 @@ Developer Information
 Designed, Developed & Maintained by
 Mohammad Hassan Soleimani
 GPR VORTEX is continuously developed to provide modern, reliable, and scientifically robust solutions for Ground Penetrating Radar data analysis. Future versions will incorporate advanced automation, artificial intelligence, and enhanced visualization capabilities.
-
+mh2030/GPR-VORTEX
+DOI: 10.5281/zenodo.21507166
 Full-Stack Development
 Looking Ahead
 Future Roadmap
