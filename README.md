@@ -74,6 +74,6 @@ Next-generation 3D rendering and real-time data exploration.
 GPR VORTEX
 Advanced Ground Penetrating Radar (GPR) Processing and Interpretation Software
 
-© 2026 GPR VORTEX. All Rights Reserved.
+© 2025 GPR VORTEX. All Rights Reserved.
 
 Developed by Mohammad Hassan Soleimani
