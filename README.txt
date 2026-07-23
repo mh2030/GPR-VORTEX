@@ -1,5 +1,6 @@
 # GPR VORTEX
-
+mh2030/GPR-VORTEX
+DOI: 10.5281/zenodo.21507166
 **Advanced Ground Penetrating Radar (GPR) Processing and Interpretation Software**
 
 GPR VORTEX is a Python-based software platform developed for processing, visualization, enhancement, and interpretation of Ground Penetrating Radar (GPR) data. The software integrates advanced signal processing algorithms, interactive visualization tools, and interpretation utilities into a user-friendly environment for geophysical investigations.
